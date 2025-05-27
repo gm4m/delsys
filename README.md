@@ -19,7 +19,7 @@ If you lose these datas, if you using Onedrive or any backupping services then y
 delsys.exe --start
 - For python:
 delsys.py --start
-**Note:** You should run this files administrator or it doesnt work.
+- **Note:** You should run this files administrator or it doesnt work.
 
 ## I dont take any responsibility
 **[IMPORTANT!]** I don't take any responsibility for deleted/corrupted systems used the exe/python file that i shared in that project.
